@@ -20,7 +20,7 @@ I’m passionate about solving real-world problems by uncovering patterns in dat
 - 🔭 I’m working on **Automation & Analytics Projects**  
 - 👯 I’m looking to collaborate on **Data Science / Data Engineering Projects**  
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/abhinav-goyal-58838a1b0/)**  
-- 🌐 Check out my portfolio **[GitHub](https://github.com/Abhinavvgoyal/)**  
+- 🌐 Check out my portfolio **[LeetCode](https://leetcode.com/u/abhigoyal7102/)**  
 
 ---
 
@@ -58,25 +58,23 @@ I’m passionate about solving real-world problems by uncovering patterns in dat
 ---
 
 ### 🏆 Achievements & Certifications
-
-- 🌟 **Advance SQL Certification** – HackerRank  
-- 🌟 **Python for Data Science** – Ongoing  
-- 🌟 **Machine Learning (in progress)** – Coursera/other platforms  
-- 🏅 Automated **bank reconciliation & exception reporting** saving hours of manual work  
-- 🏅 Consistently delivered **end-to-end dashboards & automation solutions** for banking clients  
+- 🌟 **NPTEL Deep Learning Certification**  
+- 🌟 **HackerRank Advance SQL Certification**  
+- 🌟 **5⭐️ in Python on  HackerRank**  
+- 🌟 **450+ problems solved of Data Structure and algorithm on Leetcode**
 
 ---
 
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinavgoyal08/">
+  <a href="https://www.linkedin.com/in/abhinav-goyal-58838a1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/abhinav08g">
+  <a href="[https://github.com/abhinav08g](https://github.com/Abhinavvgoyal/)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:abhinav.goyal0809@gmail.com">
+  <a href="mailto:abhi.goyal7102@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
