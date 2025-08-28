@@ -20,7 +20,7 @@ I’m passionate about solving real-world problems by uncovering patterns in dat
 - 🔭 I’m working on **Automation & Analytics Projects**  
 - 👯 I’m looking to collaborate on **Data Science / Data Engineering Projects**  
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/abhinav-goyal-58838a1b0/)**  
-- 🌐 Check out my portfolio **[LeetCode](https://leetcode.com/u/abhigoyal7102/)**  
+- 🌐 Check out LeetCode profile **[LeetCode](https://leetcode.com/u/abhigoyal7102/)**  
 
 ---
 
@@ -71,7 +71,7 @@ I’m passionate about solving real-world problems by uncovering patterns in dat
   <a href="https://www.linkedin.com/in/abhinav-goyal-58838a1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://github.com/abhinav08g](https://github.com/Abhinavvgoyal/)">
+  <a href="(https://github.com/Abhinavvgoyal/)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:abhi.goyal7102@gmail.com">
