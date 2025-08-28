@@ -14,7 +14,6 @@ My expertise lies in **SQL, Python, Power BI, StreamSets, and Oracle**, with han
 Currently, I’m upskilling in **Machine Learning and Data Science**, with the goal of transitioning into a **Data Scientist role**.  
 I’m passionate about solving real-world problems by uncovering patterns in data and creating impactful models.
 
-- 🌍 **Location:**Jaipur, Rajasthan, India  
 - 💼 I’m currently working as **Data Analyst at Osfin.ai**  
 - 🌱 I’m currently learning **Data Science & Machine Learning**  
 - 🔭 I’m working on **Automation & Analytics Projects**  
