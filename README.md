@@ -19,8 +19,8 @@ I’m passionate about solving real-world problems by uncovering patterns in dat
 - 🌱 I’m currently learning **Data Science & Machine Learning**  
 - 🔭 I’m working on **Automation & Analytics Projects**  
 - 👯 I’m looking to collaborate on **Data Science / Data Engineering Projects**  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/abhinavgoyal08/)**  
-- 🌐 Check out my portfolio **[GitHub](https://github.com/abhinav08g)**  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/abhinav-goyal-58838a1b0/)**  
+- 🌐 Check out my portfolio **[GitHub](https://github.com/Abhinavvgoyal/)**  
 
 ---
 
